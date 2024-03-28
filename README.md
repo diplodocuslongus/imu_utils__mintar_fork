@@ -1,5 +1,11 @@
 # imu_utils
 
+This is the mintar fork of imu_utils.
+I already had a fork of imu_utils from a different user but github didn't let me fork a different fork of imu_utils.
+
+This is a known "issue". 
+
+
 A ROS package tool to analyze the IMU performance. C++ version of Allan Variance Tool. 
 The figures are drawn by Matlab, in `scripts`.
 
